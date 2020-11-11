@@ -10,7 +10,8 @@ class Dog
   end
   
   def self.all
-    pry
+
     @@all 
+    pry
   end
 end
